@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/CruzJMAUNC">
+    <Resource 
+        auth="Container" 
+        driverClassName="com.mysql.cj.jdbc.Driver" 
+        maxActive="100" 
+        maxIdle="30" 
+        maxWait="10000" 
+        name="jdbc/CruzJMAUNC" 
+        password="Java*2025" 
+        type="javax.sql.DataSource" 
+        url="jdbc:mysql://localhost:3306/MapeoUnaEntidad" 
+        username="java2025"/>
+</Context>
